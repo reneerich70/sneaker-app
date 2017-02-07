@@ -10,7 +10,7 @@ header {
 background-color: #d64e2c;
 
 }
-h1,h5{
+h1,h4{
   color:white;
 }
 p {
@@ -26,10 +26,11 @@ p {
 }
 .bottom-section {
   background-color: #d64e2c;
-  float:left;
+  
 }
+
 footer {
   background-color: white;
-  
+
   color: light-brown;
 }
