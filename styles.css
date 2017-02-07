@@ -1,0 +1,35 @@
+body {
+  background-color: #d64e2c;
+
+}
+header {
+  background-color: white;
+}
+.top-section {
+
+background-color: #d64e2c;
+
+}
+h1,h5{
+  color:white;
+}
+p {
+  color: white;
+}
+.middle-section {
+  background-color: white;
+}
+.middle-section p{
+  color:black;
+
+
+}
+.bottom-section {
+  background-color: #d64e2c;
+  float:left;
+}
+footer {
+  background-color: white;
+  
+  color: light-brown;
+}
